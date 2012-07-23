@@ -2,30 +2,45 @@
 
 !SLIDE
 
+# What format will you save in when you write something down?
+
+
+
+!SLIDE
+
+## Plain txt
+![](images/txt.png)
+
+
+
+!SLIDE
+
+## Microsoft Word
+![](images/doc.png)
+
+
+
+!SLIDE
+
+## HTML
+![](images/html.gif)
+
+
+!SLIDE
+
+## Any others ?
+
+
+
+!SLIDE
+
 ![](images/markdown_logo.png)
+
+### a _lightweight_ markup language
 
 !NOTE
 
 Image credit to http://cargocollective.com/inami/Markdown
-
-
-
-!SLIDE
-
-# You may have seen it ...
-
-!NOTE
-
-- [GitHub](https://github.com/aleung/fmd): README.md
-- [StackOverflow](http://stackoverflow.com/a/8562313/94148)
-
-
-
-!SLIDE
-
-# What's Markdown?
-
-## ... a _lightweight_ markup language
 
 
 
@@ -40,6 +55,17 @@ Image credit to http://cargocollective.com/inami/Markdown
 !NOTE
 
 And, Ericsson CPI document source format, generate with TagTool
+
+
+
+!SLIDE
+
+# You may have seen it ...
+
+!NOTE
+
+- [GitHub](https://github.com/aleung/fmd): README.md
+- [StackOverflow](http://stackoverflow.com/a/8562313/94148)
 
 
 
